@@ -1,0 +1,26 @@
+{
+  "name": "environ",
+  "version": "0.0.0",
+  "description": "environment switcher",
+  "main": "index.js",
+  "bin": {
+    "environ": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://griga@github.com/griga/environ.git"
+  },
+  "author": "griga",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/griga/environ/issues"
+  },
+  "homepage": "https://github.com/griga/environ#readme",
+  "dependencies": {
+    "mkdirp": "^0.5.1",
+    "yargs": "^10.0.3"
+  }
+}

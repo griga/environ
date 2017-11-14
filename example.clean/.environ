@@ -1,0 +1,22 @@
+{
+  "sources": "./example",
+  "target": "./example/target",
+  "profiles": {
+    "profile1": [
+      "config.xml",
+      "src/manifest.json",
+      "src/index.html",
+      "src/assets/favicon.ico",
+      "src/assets/profile",
+      "src/environments"
+    ],
+    "profile2": [
+      "config.xml",
+      "src/manifest.json",
+      "src/index.html",
+      "src/assets/favicon.ico",
+      "src/assets/profile",
+      "src/environments"
+    ]
+  }
+}

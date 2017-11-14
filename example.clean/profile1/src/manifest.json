@@ -1,0 +1,14 @@
+{
+  "name": "Profile1",
+  "short_name": "Profile1",
+  "start_url": "index.html",
+  "display": "standalone",
+  "icons": [{
+    "src": "assets/profile/logo-profile1.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }],
+  "background_color": "#aaaaaa",
+  "theme_color": "#bbbbbb",
+  "gcm_sender_id": "1111111111"
+}
