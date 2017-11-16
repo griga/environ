@@ -9,7 +9,7 @@
       "request": "launch",
       "name": "Launch Program",
       "program": "${workspaceFolder}/index.js",
-      "args": ["--config", "example/.environ", "--use", "profile2"]
+      "args": ["backup", "profile2", "--config", "example/.environ"]
     }
   ]
 }
